@@ -1,0 +1,3 @@
+{
+  "ignore": ["restunnstore", "node_modules", "database", "logs"]
+}
